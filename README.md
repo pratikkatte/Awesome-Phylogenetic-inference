@@ -3,7 +3,7 @@ A curated list of resources about Phylogenetics Inference.
 
 ## Table of Contents
 - [Introduction to Phylogenetics](#introduction_to_phylogenetics)
-- [Lectures and Workshops](#lectures_and_workshops)
+- [Books and Lectures](#books_and_lectures)
 - [Papers](#papers)
 - [Databases](#databases)
 - [Methods](#methods)
@@ -13,9 +13,15 @@ A curated list of resources about Phylogenetics Inference.
 
 ## Introduction to Phylogenetics
 
-<a name="lectures_and_workshops" />
+<a name="books_and_lectures" />
 
-## Lectures and Workshops
+## Books and Lectures
+- Harmon, L. 2019. [Phylogenetic comparative methods](https://lukejharmon.github.io/pcm/). (Version 1.4, released 15 March 2019). Published online by the author.
+- Yang, Z. 2014. [Molecular evolution: a statistical approach.](http://abacus.gene.ucl.ac.uk/MESA/) Oxford University Press.
+- Baum, D. A., and S. D. Smith. 2013. [Tree thinking: an introduction to phylogenetic biology.](https://www.amazon.com/Tree-Thinking-Introduction-Phylogenetic-Biology/dp/1936221160) Roberts and Company Publishers, Greenwood Village, Colorado.
+- Garamszegi, L. Z. 2014. [Modern phylogenetic comparative methods and their application in evolutionary biology: concepts and practice.](https://link.springer.com/book/10.1007/978-3-662-43550-2) Springer-Verlag, Berlin.
+- Hall, B. G. 2011. [Phylogenetic trees made easy: a how-to manual (4th edition).](https://www.amazon.com/Phylogenetic-Trees-Made-Easy-How/dp/0878936068) Sinauer Associates, Sunderland. (A guide to running some of the most important phylogenetic software packages.)
+- Felsenstein, J. 2004. [Inferring phylogenies.](https://global.oup.com/ushe/product/inferring-phylogenies-9780878931774?cc=us&lang=en&) Sinauer Associates, Sunderland. (Comprehensive overview of both history and methods of phylogenetics.)
 
 <a name="papers" />
 

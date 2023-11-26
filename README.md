@@ -12,6 +12,9 @@ A curated list of resources about Phylogenetics Inference.
 <a name="introduction_to_phylogenetics" />
 
 ## Introduction to Phylogenetics
+Phylogenetics inference is the process of reconstructing the evolutionary relationships among species or genes based on various types of data, predominantly molecular sequences, morphological traits, or a combination thereof. At its essence, this field aims to unveil the intricate branching patterns of life, tracing the common ancestry and evolutionary divergence between organisms. Through sophisticated computational algorithms and statistical models, phylogenetics inference endeavors to construct phylogenetic trees that represent the most likely evolutionary history of the entities under study. These trees serve as evolutionary blueprints, depicting the hierarchical relationships and evolutionary distances between taxa or genetic sequences, providing crucial insights into the evolutionary processes that have shaped biodiversity.
+
+The methodologies within phylogenetics inference range from classical approaches like distance-based and parsimony methods to more intricate probabilistic frameworks such as maximum likelihood and Bayesian inference as well as generative graph neural networks. Each method carries its assumptions and computational complexities, but collectively they offer a powerful toolkit to elucidate evolutionary scenarios. The inferred phylogenetic trees not only unravel the relatedness among species but also enable scientists to decipher patterns of speciation, understand the tempo and mode of evolutionary change, particularly in the realm of medicine. Phylogenetics aids in understanding the origins and evolution of diseases. It helps track the spread of pathogens, such as viruses and bacteria, enabling better disease management and the development of targeted treatments, vaccines, and antimicrobial strategies.
 
 <a name="books_and_lectures" />
 

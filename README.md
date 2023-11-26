@@ -29,6 +29,8 @@ The methodologies within phylogenetics inference range from classical approaches
 <a name="papers" />
 
 ## Papers
+- [MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space](https://doi.org/10.1093/sysbio/sys029)
+- [PhyloGFN: Phylogenetic inference with generative flow networks.](https://arxiv.org/abs/2310.08774)
 
 <a name="databases" />
 

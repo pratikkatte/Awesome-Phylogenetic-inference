@@ -6,7 +6,6 @@ A curated list of resources about Phylogenetics Inference.
 - [Books and Lectures](#books_and_lectures)
 - [Papers](#papers)
 - [Databases](#databases)
-- [Methods](#methods)
 - [Computational Tools](#computational_tools)
 
 <a name="introduction_to_phylogenetics" />
@@ -43,13 +42,6 @@ The methodologies within phylogenetics inference range from classical approaches
 - Ning Zhang and Meredith Blackwell. Molecular phylogeny of dogwood anthracnose fungus (discula destructiva) and the diaporthales. Mycologia, 93(2):355–365, 2001.
 - Anne D. Yoder and Ziheng Yang. Divergence dates for malagasy lemurs estimated from multiple gene loci: geological and evolutionary context. Molecular Ecology, 13(4):757–773, 2004.
 - Amy Y. Rossman, John M. McKemy, Rebecca A. Pardo-Schultheiss, and Hans-Josef Schroers. Molecular studies of the bionectriaceae using large subunit rdna sequences. Mycologia, 93(1): 100–110, 2001. 
-
-
-
-
-<a name="methods" />
-
-## Methods
 
 <a name="computational_tools" />
 

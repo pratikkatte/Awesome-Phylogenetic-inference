@@ -32,6 +32,8 @@ A curated list of resources about Phylogenetics Inference.
 <a name="computational_tools" />
 
 ## Computational Tools
+- [Ultrafast Sample Placement on Existing Trees (UShER)](https://github.com/yatisht/usher): UShER is a package of a family of programs for rapid phylogenetic analyses, particularly suitable for the SARS-CoV-2 genomes. It can rapidly places new samples onto an existing phylogeny using maximum parsimony.
+- [RAxML Next Generation](https://github.com/amkozlov/raxml-ng): RAxML-NG is a phylogenetic tree inference tool which uses maximum-likelihood (ML) optimality criterion.
  
 
 

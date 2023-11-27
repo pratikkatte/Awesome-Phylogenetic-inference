@@ -1,4 +1,4 @@
-# Awesome Phylogenetics Inference
+# Awesome-Phylogenetics Inference
 A curated list of resources about Phylogenetics Inference.
 
 ## Table of Contents
